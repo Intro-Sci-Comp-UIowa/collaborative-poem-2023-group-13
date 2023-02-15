@@ -1,1 +1,2 @@
-Violets are blue
+This class is hard
+
